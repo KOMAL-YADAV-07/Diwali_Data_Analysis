@@ -70,4 +70,3 @@ Visualize trends and patterns using charts and plots
 
 Generate business insights from data
 
-It’s ideal for beginners building a portfolio or anyone learning data analysis with Python.
