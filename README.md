@@ -1,14 +1,14 @@
-📊 Diwali Sales Analysis using Python
+## 📊 Diwali Sales Analysis using Python
 
 This repository contains a Diwali Sales Analysis project that uses Python and Jupyter Notebook to explore and visualize sales data for a retail store during the Diwali festival. The goal is to understand customer behaviour, identify sales patterns, and uncover business insights to help improve customer experience and decision‑making.
 
-📁 Project Contents
+##📁 Project Contents
 
 Diwali Sales Data.csv – The dataset with sales information.
 
 Diwali_Sales_Analysis.ipynb – Jupyter Notebook containing the Python analysis & visualizations.
 
-🧰 Tools & Libraries
+## 🧰 Tools & Libraries
 
 This project uses the following tools:
 
@@ -22,7 +22,7 @@ Matplotlib & Seaborn – For data visualization
 
 Jupyter Notebook – Interactive environment for running the analysis
 
-📌 What the Project Does
+## 📌 What the Project Does
 
 The notebook performs the following steps:
 
@@ -44,7 +44,7 @@ Differences in sales across occupations
 
 Draw conclusions and insights that show trends in customer behaviour and retail performance.
 
-📈 Example Insights (Typical Findings)
+## 📈 Example Insights (Typical Findings)
 
 Projects like this typically reveal:
 
@@ -56,23 +56,9 @@ Popular product categories during the Diwali period.
 
 Customer patterns by occupation, marital status, and location.
 
-🚀 How to Run
 
-Clone the repository
 
-git clone https://github.com/rishabhnmishra/Python_Diwali_Sales_Analysis.git
-
-Install Python dependencies
-
-pip install pandas matplotlib seaborn numpy
-
-Open the Notebook
-
-jupyter notebook Diwali_Sales_Analysis.ipynb
-
-Run cells one by one to reproduce the analysis.
-
-👍 Why This Project Is Useful
+## 👍 Why This Project Is Useful
 
 This project demonstrates how to:
 
